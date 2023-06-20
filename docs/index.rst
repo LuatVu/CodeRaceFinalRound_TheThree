@@ -14,7 +14,7 @@ Welcome to Test_CodeRace's documentation!
 
 .. toctree::
    :maxdepth: 1
-   :caption: ECU Requirement
+   :caption: System Requirement
 
    ./src/ECU_Requirement.rst
 
